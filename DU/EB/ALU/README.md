@@ -25,7 +25,7 @@ As it can be seen from the figure above, the essential block of ALU is the 1-bit
 logic gates you get a block capable of performing the desired operations. Operations can be selected using `opALU` pin. Depending on its value, one operation or another 
 is selected. The table below shows the values ​​that `opALU` must have in order to select the desired operation. 
 <p align="center">
-  <img width="951" height="330" src="../../../schematics/17.Arithmetic_Logic_Unit_1b_Truth_Table.PNG">
+  <img width="951" height="330" src="../../../schematics/17.Arithmetic_Logic_Unit_1b_Truth_Table.png">
 </p>
   
 The architecure of the 1-bit ALU is shown in figure below. The subtraction operation is implemented as a sum of the operands. This is possible because the subtractor 
